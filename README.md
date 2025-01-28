@@ -1,4 +1,4 @@
-# Projeto Portfolio
+# Portfólio Projeto
 Este projeto é um site de portfolio desenvolvido para demonstrar as habilidades e tecnologias que utilizei no desenvolvimento de um projeto de portfolio. O objetivo do site é criar uma plataforma simples e eficiente para exibir como projetei e implementei um site de portfolio, destacando os principais recursos, tecnologias utilizadas e funcionalidades.
 
 ## Tecnologias Utilizadas
