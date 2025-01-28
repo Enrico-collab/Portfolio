@@ -76,7 +76,7 @@ This project is a portfolio website developed to demonstrate the skills and tech
 ## Access the project through the link:
 https://enrico-collab.github.io/Portfolio-projeto/
 
-## Como rodar o projeto
+## How to run the project
 1. Clone the repository:<br>
 git clone
 
