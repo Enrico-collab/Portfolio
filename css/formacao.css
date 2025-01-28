@@ -151,3 +151,11 @@
     margin-bottom: 10px;
   }
 }
+@media (max-width: 430px) {
+  .formacao-texto {
+    font-size: 1.1rem;
+  }
+  .faculdade-curso {
+    font-size: 1rem;
+  }
+}

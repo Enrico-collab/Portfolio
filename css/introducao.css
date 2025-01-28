@@ -53,11 +53,14 @@
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 430px) {
   .introducao {
     grid-template-columns: 1fr;
   }
   .introducao img {
     display: none;
+  }
+  .introducao p {
+    font-size: 1.1rem;
   }
 }

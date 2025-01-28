@@ -100,8 +100,11 @@
     content: "Ano: ";
   }
 }
-@media (max-width: 400px) {
+@media (max-width: 430px) {
   .empresa {
     grid-template-columns: 1fr;
+  }
+  .experiencia-texto {
+    font-size: 1.1rem;
   }
 }
