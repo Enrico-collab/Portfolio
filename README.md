@@ -32,7 +32,7 @@ https://enrico-collab.github.io/Portfolio-projeto/
 1. Clone o repositório:<br>
 git clone
 
-2.Navegue até a pasta do projeto:<br>
+2. Navegue até a pasta do projeto:<br>
 cd portfolio
 
 3. Instale as dependências (caso haja alguma):<br>
