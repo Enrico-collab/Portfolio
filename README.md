@@ -31,16 +31,16 @@ As principais funcionalidades do site são:
 https://enrico-collab.github.io/Portfolio/
 
 ## Como rodar o projeto
-1.Clone o repositório:<br>
+1. Clone o repositório:<br>
 git clone
 
 2.Navegue até a pasta do projeto:<br>
 cd portfolio
 
-3.Instale as dependências (caso haja alguma):<br>
+3. Instale as dependências (caso haja alguma):<br>
 npm install
 
-4.Execute o projeto localmente:<br>
+4. Execute o projeto localmente:<br>
 npm start
 
 ## Autor
@@ -81,16 +81,16 @@ The main features of the site are:
 https://enrico-collab.github.io/Portfolio/
 
 ## Como rodar o projeto
-1.Clone the repository:<br>
+1. Clone the repository:<br>
 git clone
 
-2.Navigate to the project folder:<br>
+2. Navigate to the project folder:<br>
 cd portfolio
 
-3.Install dependencies (if any):<br>
+3. Install dependencies (if any):<br>
 npm install
 
-4.Run the project locally:<br>
+4. Run the project locally:<br>
 npm start
 
 ## Autor
