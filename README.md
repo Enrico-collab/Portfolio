@@ -28,7 +28,7 @@ As principais funcionalidades do site são:
 **Responsividade e Design Adaptável:** O site é totalmente responsivo, garantindo uma experiência de navegação otimizada tanto em dispositivos móveis quanto em desktops. O design é flexível e se adapta automaticamente a diferentes tamanhos de tela, proporcionando uma boa experiência de visualização em qualquer dispositivo.
 
 ## Acesse o projeto através do link:
-https://enrico-collab.github.io/Portfolio/
+https://enrico-collab.github.io/Portfolio-projeto/
 
 ## Como rodar o projeto
 1. Clone o repositório:<br>
@@ -78,7 +78,7 @@ The main features of the site are:
 **Responsiveness and Adaptive Design:** The site is fully responsive, ensuring an optimized browsing experience on both mobile devices and desktops. The design is flexible and adapts automatically to different screen sizes, providing a good viewing experience on any device.
 
 ## Access the project through the link:
-https://enrico-collab.github.io/Portfolio/
+https://enrico-collab.github.io/Portfolio-projeto/
 
 ## Como rodar o projeto
 1. Clone the repository:<br>
